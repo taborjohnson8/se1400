@@ -16,7 +16,7 @@ header h1 {
 }
 
 nav {
-    text-transform: uppercase;
+    font-weight: bold;
     background-color: #F3F3F3;
 }
 
