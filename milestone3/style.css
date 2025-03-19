@@ -14,7 +14,7 @@ header {
 
 main {
     background-color: rgba(255, 99, 71, 0.3);
-    height: 1430px;
+    height: 1431px;
     grid-row: 4 / 5;
     grid-column: 2 / -2;
 }
